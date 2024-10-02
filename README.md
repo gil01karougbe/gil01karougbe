@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a cybersecurity engineer<br>Building a strong hacker mindset to help improve defence strategies</br>
+I'm a cybersecurity engineer<br>Building a strong hacker mindset to contribute improve defence strategies</br>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gil01karougbe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</br>
